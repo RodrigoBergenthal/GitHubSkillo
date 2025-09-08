@@ -1,1 +1,1 @@
-#Teste de repositorio Skillo! -- Ingrid Bini -- Gabriel K -- José Vitor -- Kai -- Marcos -- Livia -- Arthur -- Gabriel T -- Rafael
+#Teste de repositorio Skillo! -- Ingrid Bini -- Gabriel K -- José Vitor -- Kai -- Marcos -- Livia -- Arthur -- Gabriel T -- Rafael -- Moisés
