@@ -1,2 +1,1 @@
-#Teste de repositorio Skillo!
-Gabriel Karkotli
+#Teste de repositorio Skillo! -- Ingrid Bini -- Gabriel K --
